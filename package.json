@@ -1,15 +1,15 @@
 {
   "name": "eggman",
   "version": "1.0.0",
-  "description": "tutorial bs",
+  "description": "tutorial bs for now",
   "main": "index.js",
   "scripts": {
     "start": "tsc  && node --unhandled-rejections=strict ./dist/app.js",
     "debug": "export DEBUG=* && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "some guy",
-  "license": "ISC",
+  "author": "John Snook",
+  "license": "MIT",
   "devDependencies": {
     "@types/cors": "^2.8.14",
     "@types/debug": "^4.1.8",
