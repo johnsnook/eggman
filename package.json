@@ -25,5 +25,13 @@
     "express-winston": "^4.2.0",
     "nodemon": "^3.0.1",
     "winston": "^3.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsnook/eggman.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnsnook/eggman/issues"
+  },
+  "homepage": "https://github.com/johnsnook/eggman#readme"
 }

@@ -6,6 +6,8 @@ As a maintenance man (trainee!) at a poultry hatchery, I have noted several work
 
 It's an opportunity to get some marketable skills under my belt as well, so I'll be using [Node.js](https://www.google.com/search?q=remote+node.js+&oq=remote+no&gs_lcrp=EgZjaHJvbWUqCwgBEEUYJxg7GIoFMgYIABBFGDkyCwgBEEUYJxg7GIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgoIBRAAGLEDGIAEMgoIBhAAGLEDGIAEMgYIBxBFGD3SAQgzMjU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGot3oj7CBAxVWnWoFHa4UBOgQudcGKAF6BAgNECs&sxsrf=AM9HkKkKpUSMJZn3H_VPTeL1aaKlyG0v9g:1694901420387#fpstate=tldetail&htivrt=jobs&htidocid=UEU_r5pejqARoN4mAAAAAA%3D%3D) and [React.js](https://www.google.com/search?q=remote+react&oq=remote+no&gs_lcrp=EgZjaHJvbWUqCwgBEEUYJxg7GIoFMgYIABBFGDkyCwgBEEUYJxg7GIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgoIBRAAGLEDGIAEMgoIBhAAGLEDGIAEMgYIBxBFGD3SAQgzMjU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiGot3oj7CBAxVWnWoFHa4UBOgQudcGKAF6BAgNECs&sxsrf=AM9HkKkKpUSMJZn3H_VPTeL1aaKlyG0v9g:1694901420387#fpstate=tldetail&htivrt=jobs&htidocid=-oHcl3EVXrlfKhNPAAAAAA%3D%3D) (React Native).
 
+In it's current state, this repository only holds tutorial code.
+
 ## Back end
 
 A PostgreSQL database served by a Node.js REST api with authentication.
